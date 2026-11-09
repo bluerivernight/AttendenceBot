@@ -14,7 +14,7 @@ A complete employee time-tracking system with:
 
 ```bash
 # 1. Clone & install
-git clone https://github.com/your-org/attendance-bot.git
+git clone https://github.com/bluerivernight/AttendenceBot
 cd attendance-bot
 npm install
 
