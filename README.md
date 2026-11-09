@@ -1,4 +1,4 @@
-# AttendanceBot — Enterprise Discord Bot + Supabase Web Dashboard
+# AttendanceBot — Discord Bot
 
 A complete employee time-tracking system with:
 - **Discord Duty Panel** — interactive check-in/check-out/break with timezone-aware ephemeral responses
